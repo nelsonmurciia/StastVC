@@ -13,11 +13,11 @@ var parseFeed = function(data) {
      var retirosp = 'Retiros pendts:';
 
     // cantidad 
-    var cant_usr = data.clientes.total_all;
-    var cargar_usr = data.clientes.cargarpp;
-    var retiros_usr = data.clientes.retiropp;
-    var carga_pen = data.clientes.cargarp;
-    var retiros_pen = data.clientes.retirop;
+    var cant_usr = data.total_all;
+    var cargar_usr = data.cargarpp;
+    var retiros_usr = data.retiropp;
+    var carga_pen = data.cargarp;
+    var retiros_pen = data.retirop;
     
    
 

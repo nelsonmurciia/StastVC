@@ -31,11 +31,17 @@
             }
         ]
     },
+    "sdkVersion": "3",
     "shortName": "Stats VC",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
     "uuid": "212599c4-d4df-46ad-a2cb-10d13b263ff1",
     "versionCode": 1,
     "versionLabel": "1.1",
     "watchapp": {
+        "hiddenApp": false,
         "watchface": false
     }
 }
