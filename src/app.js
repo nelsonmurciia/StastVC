@@ -72,7 +72,7 @@ splashWindow.show();
 
 ajax(
   {
-    url:'https://virtualconex.com/apppebble/statsVC.php',
+    url:'http://virtualconex.com/apppebble/statsVC.php',
     type:'json'
   },
   function(data) {
